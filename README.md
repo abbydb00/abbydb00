@@ -1,10 +1,10 @@
-### Olá! 👋 Sou o Abrão Drago Braga
+### Olá! 👋 Sou o Abrão Braga
 **Analista de Dados Júnior | Estudante de Ciência de Dados**
 
 Profissional de TI com 5 anos de experiência em infraestrutura e resolução de problemas, atualmente em transição para a área de Dados. Meu foco é utilizar lógica, consultas estruturadas e visualização para transformar dados brutos em inteligência de negócios. 
 
 🎓 Cursando Ciência de Dados (Estácio) | Técnico em Informática (IFSul)
-📍 Lajeado, RS
+
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 - **Bancos de Dados:** PostgreSQL, MySQL, Supabase, Firebase.
